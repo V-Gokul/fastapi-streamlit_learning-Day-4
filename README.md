@@ -1,7 +1,3 @@
-# fastapi-streamlit_learning-Day-4
-
-
-
 # FastAPI Learning
 
 Small collection of FastAPI and Streamlit practice apps:
